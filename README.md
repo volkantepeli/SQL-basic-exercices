@@ -24,7 +24,7 @@ Link: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-s
 4.What is the value in the last_name column of the customer whose value is 'Mary' in the first_name column of the customer table?
 5.Sort the data in the movie table whose length is NOT greater than 50, but whose rental_rate is NOT 2.99 or 4.99.
 ```
-[Answers Go](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices1.sql)
+[Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices1.sql)
 
 ### Exercices 2
 
@@ -33,7 +33,17 @@ Link: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-s
 2.Sort the data in the first_name and last_name columns in the actor table provided that first_name is 'Penelope' or 'Nick' or 'Ed'. (Use the IN operator.)
 3.Sort the data in all columns in the movie table with rental_rate 0.99, 2.99, 4.99 AND replacement_cost 12.99, 15.99, 28.99. (Use the IN operator.)
 ```
-[Answers Go](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices2.sql)
+[Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices2.sql)
+
+### Exercices 3
+
+```
+1.List the country names in the country column of the country table, starting with the 'A' character and ending with the 'a' character.
+2.List the country names in the country column of the country table, consisting of at least 6 characters and ending with the 'n' character.
+3.In the title column of the movie table, list the movie names containing at least 4 'T' characters, regardless of upper or lower case letters.
+4.From the data in all the columns in the movie table, sort the data that starts with the title 'C' character, has a length greater than 90 and a rental_rate of 2.99.
+```
+[Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices3.sql)
 
 
 ## Used technologies
