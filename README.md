@@ -24,7 +24,14 @@ Link: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-s
 4.What is the value in the last_name column of the customer whose value is 'Mary' in the first_name column of the customer table?
 5.Sort the data in the movie table whose length is NOT greater than 50, but whose rental_rate is NOT 2.99 or 4.99.
 ```
-[Answers Go](https://duckduckgo.com)
+[Answers Go](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices1.sql)
+
+### Exercices 2
+
+```
+Continues ..
+```
+
 
 ## Used technologies
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25" />
