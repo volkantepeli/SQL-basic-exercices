@@ -1,6 +1,5 @@
-<img src='https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png' height='60px'>
+# <img src='https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png' height='60px'> SQL Course
 
-# SQL Course
 
 ## Project Purpose
 Learning the basics of SQL, solving problems and finishing the course.
