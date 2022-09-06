@@ -45,6 +45,17 @@ Link: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-s
 ```
 [Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices3.sql)
 
+### Exercices 4
+
+```
+1.Sort the different values ​​in the replacement_cost column in the movie table.
+2.How many different data are there in the replacement_cost column in the movie table?
+3.How many of the movie titles in the movie table start with the character T and at the same time the rating is equal to 'G'?
+4.How many of the country names (country) in the country table consist of 5 characters?
+5.How many of the city names in the city table end with the character 'R' or r?
+```
+[Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices4.sql)
+
 
 ## Used technologies
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25" />
