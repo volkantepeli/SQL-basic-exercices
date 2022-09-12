@@ -56,6 +56,16 @@ Link: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-s
 ```
 [Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices4.sql)
 
+### Exercices 5
+
+```
+1.List the 5 longest (length) movies in the movie table and the movie title (title) ends with the 'n' character.
+2.List the shortest (length) second(6,7,8,9,10) 5 movies(6,7,8,9,10) in the movie table and the movie title ends with the 'n' character.
+3.Sort the first 4 data, provided that store_id is 1 in the descending order according to the last_name column in the customer table.
+```
+[Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices5.sql)
+
+
 
 ## Used technologies
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="25" height="25" />
