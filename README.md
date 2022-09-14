@@ -112,6 +112,16 @@ Link: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-s
 ```
 [Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices10.sql)
 
+### Exercices 11
+
+```
+1.In the movie table, the movie length is shown in the length column. How many movies are longer than the average movie length?
+2.How many movies have the highest rental_rate in the movie table?
+3.In the movie table, list the movies with the lowest rental_rate and the lowest replacement_cost values.
+4.In the payment table, list the customers who make the most purchases.
+```
+[Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices11.sql)
+
 
 
 ## Used technologies
