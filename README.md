@@ -103,6 +103,15 @@ Link: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-s
 ```
 [Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices9.sql)
 
+### Exercices 10
+
+```
+1.Let's sort all the data for the first_name columns in the actor and customer tables.
+2.Let's sort the intersecting data for the first_name columns in the actor and customer tables.
+3.For the first_name columns in the actor and customer tables, let's sort the data in the first table but not in the second table.
+```
+[Go to answers](https://github.com/volkantepeli/SQL-basic-exercices/blob/master/exercices10.sql)
+
 
 
 ## Used technologies
